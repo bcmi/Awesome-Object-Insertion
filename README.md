@@ -1,2 +1,4 @@
 # Awesome-Object-Insertion
-This repository is a redirect to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
+
+Object insertion/addition/compositing is an alias of image composition.
+Please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition).
