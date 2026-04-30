@@ -1,6 +1,6 @@
 # Awesome-Object-Insertion  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-**Object insertion/addition/compositing is an alias of [image composition](https://github.com/bcmi/Awesome-Image-Composition).**
+**Object or subject insertion/addition/compositing is an alias of [image composition/compositing](https://github.com/bcmi/Awesome-Image-Composition).**
 
 A curated list of resources including papers, datasets, and relevant links pertaining to image composition. **The goal of image composition is inserting one foreground into a background image to get a realistic composite image, by addressing the inconsistencies (appearance, geometry, and semantic inconsistency) between foreground and background.** Generally speaking, image composition could be used to combine the visual elements from different images.
 
